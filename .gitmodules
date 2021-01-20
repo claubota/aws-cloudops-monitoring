@@ -1,0 +1,4 @@
+[submodule "themes/learn"]
+	path = themes/learn
+	url = https://github.com/dixonaws/hugo-theme-learn.git
+	branch = ecsworkshop
