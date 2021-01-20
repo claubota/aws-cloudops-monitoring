@@ -1,4 +1,4 @@
-# aws-cloudops-workshop
+# aws-cloudops-monitoring
 
 ### Setup:
 
@@ -13,7 +13,7 @@ On Linux:
 
 #### Clone this repo:
 From wherever you checkout repos:
-`git clone https:/github.com/dixonaws/aws-cloudops-linux`
+`git clone https:/github.com/dixonaws/aws-cloudops-monitoring`
 
 #### Clone the theme submodule:
 `cd aws-cloudops-linux`
